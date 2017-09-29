@@ -1,0 +1,120 @@
+"Manage Shopping Cart","Manage Shopping Cart",module,Magento_AdvancedCheckout
+"Create Order","Create Order",module,Magento_AdvancedCheckout
+Back,Back,module,Magento_AdvancedCheckout
+"Add Products","Add Products",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Update Items and Quantities",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Are you sure you want to clear your cart?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Clear my shopping cart",module,Magento_AdvancedCheckout
+"Add selections to my cart","Add selections to my cart",module,Magento_AdvancedCheckout
+Cancel,Cancel,module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Shopping Cart for %1 in %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Select products you want to buy",module,Magento_AdvancedCheckout
+Product,Product,module,Magento_AdvancedCheckout
+Price,Price,module,Magento_AdvancedCheckout
+Quantity,Quantity,module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Products in the Comparison List (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Last ordered items (%1)",module,Magento_AdvancedCheckout
+Products,Products,module,Magento_AdvancedCheckout
+ID,ID,module,Magento_AdvancedCheckout
+SKU,SKU,module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Recently Compared Products (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Recently Viewed Products (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Add to Shopping Cart by SKU",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Add to Shopping Cart",module,Magento_AdvancedCheckout
+"Wish List (%1)","Wish List (%1)",module,Magento_AdvancedCheckout
+Apply,Apply,module,Magento_AdvancedCheckout
+Configure,Configure,module,Magento_AdvancedCheckout
+"Add to Order by SKU","Add to Order by SKU",module,Magento_AdvancedCheckout
+"Add to Order","Add to Order",module,Magento_AdvancedCheckout
+"Add Products to Order","Add Products to Order",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>",module,Magento_AdvancedCheckout
+"Remove All","Remove All",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Only %1%2%3 left in stock",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","You can buy up to %1 of these per purchase.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","You must buy at least %1 of these per purchase.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Specify the product's options.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Alert me when this item is available.",module,Magento_AdvancedCheckout
+"We can't find this customer.","We can't find this customer.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Shopping cart management is disabled for this customer.",module,Magento_AdvancedCheckout
+"We can't find this store.","We can't find this store.",module,Magento_AdvancedCheckout
+Customers,Customers,module,Magento_AdvancedCheckout
+"Shopping Cart","Shopping Cart",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_AdvancedCheckout
+"You do not have access to this.","You do not have access to this.",module,Magento_AdvancedCheckout
+"Ordered item id is not received.","Ordered item id is not received.",module,Magento_AdvancedCheckout
+"Ordered item is not loaded.","Ordered item is not loaded.",module,Magento_AdvancedCheckout
+"Quote item id is not received.","Quote item id is not received.",module,Magento_AdvancedCheckout
+"Quote item is not loaded.","Quote item is not loaded.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","The wish list item id is not received.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","The wish list item is not loaded.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","An error has occurred. See error log for details.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","You cannot configure a product.",module,Magento_AdvancedCheckout
+"You removed the items.","You removed the items.",module,Magento_AdvancedCheckout
+"You removed the item.","You removed the item.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_AdvancedCheckout
+"You cannot add a product.","You cannot add a product.",module,Magento_AdvancedCheckout
+"Order by SKU","Order by SKU",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Availability: Out of stock.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","We don't have as many of these as you want.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","You can't add this many to your cart.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","You need to choose options for your item.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","We can't add the item to your cart.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Please enter an actual number in the ""Qty"" field.",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","This product is assigned to another website.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","You can add only enabled products.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","You cannot upload this file.",module,Magento_AdvancedCheckout
+"The file is empty.","The file is empty.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","You have not entered a product SKU.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Something went wrong while reordering this product.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","We can't find this wish list.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","You added %1 product to your shopping cart.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","You added %1 products to your shopping cart.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 product requires your attention.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 products require your attention.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Yes, for Specified Customer Groups",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Yes, for Everyone",module,Magento_AdvancedCheckout
+No,No,module,Magento_AdvancedCheckout
+"The file is corrupt.","The file is corrupt.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Please upload the file in .csv format.",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 item(s) need your attention.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Apply Coupon Code",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Remove Coupon Code",module,Magento_AdvancedCheckout
+Remove,Remove,module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Shopping Cart Items",module,Magento_AdvancedCheckout
+Qty,Qty,module,Magento_AdvancedCheckout
+Subtotal,Subtotal,module,Magento_AdvancedCheckout
+Discount,Discount,module,Magento_AdvancedCheckout
+"Row Subtotal","Row Subtotal",module,Magento_AdvancedCheckout
+Action,Action,module,Magento_AdvancedCheckout
+"No ordered items","No ordered items",module,Magento_AdvancedCheckout
+"Total %1 product(s)","Total %1 product(s)",module,Magento_AdvancedCheckout
+Subtotal:,Subtotal:,module,Magento_AdvancedCheckout
+"Please select","Please select",module,Magento_AdvancedCheckout
+"Move to Wish List","Move to Wish List",module,Magento_AdvancedCheckout
+"No item specified.","No item specified.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_AdvancedCheckout
+"SKU number","SKU number",module,Magento_AdvancedCheckout
+"Upload File","Upload File",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","Your csv file must include ""sku"" and ""qty"" columns.",module,Magento_AdvancedCheckout
+Reset,Reset,module,Magento_AdvancedCheckout
+"SKU: ","SKU: ",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","Only <span id=""%1_max_allowed"">%2</span> in stock",module,Magento_AdvancedCheckout
+Item,Item,module,Magento_AdvancedCheckout
+"See price before order confirmation.","See price before order confirmation.",module,Magento_AdvancedCheckout
+"What's this?","What's this?",module,Magento_AdvancedCheckout
+"Incl. Tax","Incl. Tax",module,Magento_AdvancedCheckout
+"Excl. Tax","Excl. Tax",module,Magento_AdvancedCheckout
+"Edit item parameters","Edit item parameters",module,Magento_AdvancedCheckout
+Edit,Edit,module,Magento_AdvancedCheckout
+"Remove item","Remove item",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Products Requiring Attention",module,Magento_AdvancedCheckout
+"Add to Cart","Add to Cart",module,Magento_AdvancedCheckout
+Sku,Sku,module,Magento_AdvancedCheckout
+File,File,module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","File extensions allowed: .csv",module,Magento_AdvancedCheckout
+"Add Row","Add Row",module,Magento_AdvancedCheckout
+"Remove Row","Remove Row",module,Magento_AdvancedCheckout

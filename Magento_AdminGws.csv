@@ -1,0 +1,19 @@
+All,All,module,Magento_AdminGws
+None,None,module,Magento_AdminGws
+"Allowed Scopes","Allowed Scopes",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates.",module,Magento_AdminGws
+"Please assign this entity to a store view.","Please assign this entity to a store view.",module,Magento_AdminGws
+"You can create orders only in an active store.","You can create orders only in an active store.",module,Magento_AdminGws
+"Please assign this item to a store view.","Please assign this item to a store view.",module,Magento_AdminGws
+"You need more permissions to save this item.","You need more permissions to save this item.",module,Magento_AdminGws
+"You need more permissions to delete this item.","You need more permissions to delete this item.",module,Magento_AdminGws
+"You need more permissions to view this item.","You need more permissions to view this item.",module,Magento_AdminGws
+"Please specify at least one website or one store group.","Please specify at least one website or one store group.",module,Magento_AdminGws
+"You need more permissions to set All Scopes to a Role.","You need more permissions to set All Scopes to a Role.",module,Magento_AdminGws
+"Incorrect website ID: %1","Incorrect website ID: %1",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","You need more permissions to access website ""%1"".",module,Magento_AdminGws
+"Incorrect store ID: %1","Incorrect store ID: %1",module,Magento_AdminGws
+"You need more permissions to save this setting.","You need more permissions to save this setting.",module,Magento_AdminGws
+"Role Scopes","Role Scopes",module,Magento_AdminGws
+Custom,Custom,module,Magento_AdminGws
