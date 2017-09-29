@@ -1,5 +1,6 @@
 # magento2-zh_CN
 Magento 2 Simplified Chinese Package
+
 Magento2简体中文包
 
 使用方法：
