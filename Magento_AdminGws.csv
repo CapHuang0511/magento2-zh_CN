@@ -1,6 +1,6 @@
 All,全部,module,Magento_AdminGws
-None,None,module,Magento_AdminGws
-"Allowed Scopes","Allowed Scopes",module,Magento_AdminGws
+None,无,module,Magento_AdminGws
+"Allowed Scopes","允许的范围",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates.",module,Magento_AdminGws
 "Please assign this entity to a store view.","Please assign this entity to a store view.",module,Magento_AdminGws
